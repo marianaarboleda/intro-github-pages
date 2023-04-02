@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog!
 ---
+
+I'm testing this github course about github pages
 
